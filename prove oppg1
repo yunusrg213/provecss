@@ -1,0 +1,104 @@
+<head>
+    <style>
+table {
+    padding: 12px 15px
+    
+}
+
+td {
+    background-color: #f2f2f2;
+    width: 250px
+    grid: 
+}
+
+.td2 {
+    background-color: white;
+}
+
+.td3 {
+    background-color: #3498db;
+    color: white
+}
+
+th {
+    color: white;
+    background-color: #e74c3c;
+    width: 500px
+}
+    </style>
+</head>
+
+<body>
+    <table align="center">
+        <th colspan="2">År</th>
+        <tr>
+            <td><b>Måned</b></td>
+            <td><b>Tjent</b></td>
+        </tr>
+        
+        <tr>
+            <td class="td2">Januar</td>
+            <td class="td2">12 500 kr</td>
+        </tr>
+
+        <tr>
+            <td>Februar</td>
+            <td>17 800 kr</td>
+        </tr>
+
+        <tr>
+            <td class="td2">Mars</td>
+            <td class="td2">28 300 kr</td>
+        </tr>
+
+        <tr>
+            <td>April</td>
+            <td>15 750 kr</td>
+        </tr>
+
+        <tr>
+            <td class="td2">Mai</td>
+            <td class="td2">14 900 kr</td>
+        </tr>
+
+        <tr>
+            <td>Juni</td>
+            <td>11 200 kr</td>
+        </tr>
+
+        <tr>
+            <td class="td2">Juli</td>
+            <td class="td2">16 400 kr</td>
+        </tr>
+
+        <tr>
+            <td>August</td>
+            <td>-- --- kr</td>
+        </tr>
+
+        <tr>
+            <td class="td2">September</td>
+            <td class="td2">-- --- kr</td>
+        </tr>
+
+        <tr>
+            <td>Oktober</td>
+            <td>-- --- kr</td>
+        </tr>
+
+        <tr>
+            <td class="td2">November</td>
+            <td class="td2">-- --- kr</td>
+        </tr>
+        
+        <tr>
+            <td>Desember</td>
+            <td>-- --- kr</td>
+        </tr>
+            
+        <tr>
+            <td class="td3">Totalt</td>
+            <td class="td3">--- --- kr</td>
+        </tr>
+    </table>
+</body>
