@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Yunus hotel</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="yunus hotel.jpg">
+        <style>
+            body {font-family:Arial, Helvetica, sans-serif;}
+            h1, h2, h3, h4, h5, h6 {
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                letter-spacing: 5px
+            }
+        </style>
+    </head>
+    <body>
+
+        <div class="yunus-top">
+            <div class="yunus-bar yunus-white yunus-padding yunus-card" style="letter-spacing: 4px;">
+        <a href="#home" class="button">Yunus Hotel</a>
+        <div class="yunus-right yunus-hide-small">
+        <a href="#Om oss" class="button">Om oss</a>
+        <a href="#Rom" class="button">Rom</a>
+        <a href="#Kontakt" class="button">Kontakt</a>
+        </div>
+    </div>
+</div>
+
+
+</html>
+
+ble ikke helt ferdig men du skjønner tegninga, tok litt inspirasjon fra vg1 arbeidet mitt
